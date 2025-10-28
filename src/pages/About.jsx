@@ -3,6 +3,10 @@ import Titles from '../components/Titles'
 import { assets } from '../assets/assets'
 import Newsletterbox from '../components/Newsletterbox'
 
+
+
+
+
 const About = () => {
   return (
     <div>
@@ -27,7 +31,7 @@ From fashion, electronics, and beauty essentials to home décor, lifestyle, and 
                 <div className='flex flex-col md:flex-row text-sm mb-20'>
                      <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
                         <b>QUALITY ASSURANCE:</b>
-                        <p className='text-gray-600'>Our QA strategy ensures that every feature of the app—from browsing and search to checkout and delivery tracking—works flawlessly across all devices and platforms. We follow industry best practices, rigorous testing methodologies, and continuous monitoring to guarantee performance, security, and usability.</p>
+                        <p className='text-gray-600'>Our QA strategy's ensures that every feature of the app—from browsing and search to checkout and delivery tracking—works flawlessly across all devices and platforms. We follow industry best practices, rigorous testing methodologies, and continuous monitoring to guarantee performance, security, and usability.</p>
                      </div>
                      <div className='border px-10 md:px-16 py-8 sm:py-20 flex flex-col gap-5'>
                         <b>CONVENIENCE:</b>
