@@ -1,7 +1,7 @@
 import React, { useContext,useEffect,useState } from 'react'
 import { ShopContext } from '../context/ShopContext';
 
-import { Collection } from 'mongoose';
+// import { Collection } from 'mongoose';
 import Titles from './Titles';
 import ProductItem from './ProductItem';
 
